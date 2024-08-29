@@ -1,0 +1,15 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Dependency directories
+package-lock.json
+
+# Environment files
+.env
+
+# Log files
+*.log
